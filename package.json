@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@svgr/webpack": "^6.5.1",
+    "@unocss/preset-attributify": "^0.46.1",
+    "@unocss/preset-uno": "^0.46.1",
+    "@unocss/preset-web-fonts": "^0.46.1",
+    "@unocss/webpack": "^0.46.1",
     "eslint": "8.27.0",
     "eslint-config-next": "13.0.4",
     "next": "13.0.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "unocss": "^0.46.1"
   }
 }
