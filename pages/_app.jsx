@@ -1,5 +1,6 @@
 import "../styles/globals.css";
 import "uno.css";
+import "toastify-js/src/toastify.css";
 import Head from "next/head";
 
 function MyApp({ Component, pageProps }) {

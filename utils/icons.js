@@ -16,6 +16,9 @@ const icons = [
   "numbered-list",
   "sun",
   "moon",
+  "download",
+  "search",
+  "mention",
 ];
 
 export default icons;
